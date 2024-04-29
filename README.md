@@ -17,7 +17,7 @@
   <li>Se o XP for menor do que 1000 = Ferro</li>
   <li>Se o XP for entre 1001 e 2000 = Bronze</li>
   <li>Se o XP for entre 2001 e 5000 = Prata</li>
-  <li>Se o XP for entre 6001 e 7000 = Ouro</li>
+  <li>Se o XP for entre 5001 e 7000 = Ouro</li>
   <li>Se o XP for entre 7001 e 8000 = Platina</li>
   <li>Se o XP for entre 8001 e 9000 = Ascendente</li>
   <li>Se o XP for entre 9001 e 10.000 = Imortal</li>
