@@ -1,4 +1,4 @@
-# Classificador de Nível de Herói
+# ⚔️ Classificador de Nível de Herói
 
 <h3><em>O que deve ser utilizado?</em></h3>
 
@@ -27,3 +27,7 @@
 <h3><em>Saída</em></h3>
 
 <p>Ao final deve exibir uma mensagem: "O herói de nome **{nome}** está no nível de **{nível}**"</p>
+
+## 🚀 Execução
+
+Para executar o projeto, basta abrí-lo numa IDE e executá-lo no terminal usando o comando ``` node index.js ```.
